@@ -15,7 +15,6 @@ Project entrypoint SPA: https://dhelms33.github.io/msudenver-bulletin-board.gith
 
 - **Real-Time Updates:** Utilizing JavaScript and Firebase, the platform allows teachers to post real-time updates that students can instantly view.
 - **File Uploads:** Teachers can upload and share files, documents, and other resources with their classes, enhancing the learning experience.
-- **Secure Authentication:** User authentication ensures that only authorized teachers can access and manage the platform's content.
 
 ## Technologies Used
 
