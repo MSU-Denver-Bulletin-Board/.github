@@ -7,6 +7,7 @@ Welcome to our senior project repository! This project aims to create a website 
 ## Links
 
 Project repository: https://github.com/orgs/MSU-Denver-Bulletin-Board/repositories
+
 Project entrypoint SPA: https://dhelms33.github.io/msudenver-bulletin-board.github.io/
 
 
