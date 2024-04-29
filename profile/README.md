@@ -12,6 +12,8 @@ Project entrypoint SPA: https://dhelms33.github.io/msudenver-bulletin-board.gith
 
 Project nodejs hosted on firebase(beta): https://github.com/MSU-Denver-Bulletin-Board/nodejsBB-beta
 
+Project entrypoint Merged: https://bycarlosfp.github.io/MSUDBBDemo/
+
 
 ## Features
 
