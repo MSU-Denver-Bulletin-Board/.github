@@ -10,6 +10,8 @@ Project repository: https://github.com/orgs/MSU-Denver-Bulletin-Board/repositori
 
 Project entrypoint SPA: https://dhelms33.github.io/msudenver-bulletin-board.github.io/
 
+Project nodejs hosted on firebase(beta): https://github.com/MSU-Denver-Bulletin-Board/nodejsBB-beta
+
 
 ## Features
 
